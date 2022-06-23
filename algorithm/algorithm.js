@@ -30,5 +30,4 @@ console.log(matrix)
 
 /**
  * Time Complexity: O(n^2logn). 
- * Auxiliary Space: O(n2).
  */
